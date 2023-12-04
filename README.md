@@ -6,8 +6,10 @@ Criamos um web site para conseguirmos ter contato nossos clientes e estilizamos 
 ## 📄 Descrição do projeto
 Form-login criado durante as aulas de Fundamentos de Desenvolvimento Web, criamos um web site do nosso form-login, estilizando-o. Esse projeto foi criado para aprendermos a montar um form-login e os nossos clientes terem acesso a sua conta. Os Form-login costumam estar nas páginas iniciais, em "Acessar sua conta" ou "Entrar".
 ## Imagem do software:
+![Alt text](Captura%20de%20tela%202023-12-04%20115139.png) 
 
-<img src= "(Captura%20de%20tela%202023-12-04%20115139.png)" width = "500">
+
+
 
 ## 🛠️ Tecnologias  
 * HTML
